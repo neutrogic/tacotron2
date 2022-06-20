@@ -1,5 +1,3 @@
-This is a fork of tacotron2 with code changes for my TTS GUI application, neuTalk. Biggest changes are support/code conversion for tensorflow 2.x and some updates with cleaners.
-
 # Tacotron 2 (without wavenet)
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
